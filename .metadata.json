@@ -1,0 +1,14 @@
+[
+  {
+    "package": "billboard",
+    "oncran": true
+  },
+  {
+    "package": "ftDK",
+    "oncran": true
+  },
+  {
+    "package": "smpic",
+    "oncran": true
+  }
+]
