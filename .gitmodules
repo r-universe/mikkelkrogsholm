@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "billboard"]
 	path = billboard
 	url = https://github.com/mikkelkrogsholm/billboard
-	shallow = true
-	registered = true
 [submodule "ftDK"]
 	path = ftDK
 	url = https://github.com/mikkelkrogsholm/ftdk
-	shallow = true
-	registered = true
 [submodule "postlightmercury"]
 	path = postlightmercury
 	url = https://github.com/cran/postlightmercury
-	shallow = true
-	registered = true
 [submodule "smpic"]
 	path = smpic
 	url = https://github.com/mikkelkrogsholm/smpic
-	shallow = true
-	registered = true
