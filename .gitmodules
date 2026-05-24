@@ -11,6 +11,3 @@
 [submodule "postlightmercury"]
 	path = postlightmercury
 	url = https://github.com/cran/postlightmercury
-[submodule "smpic"]
-	path = smpic
-	url = https://github.com/mikkelkrogsholm/smpic
